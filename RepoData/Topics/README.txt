@@ -10,7 +10,11 @@ stock-images
 md
 txt
 gpl3
+rs
+mobile-gaming
 seanpm2001-life-archive
 git-image
 nimblebit
-bitcity 
+bitcity
+bit-city
+nimblebit-hames
