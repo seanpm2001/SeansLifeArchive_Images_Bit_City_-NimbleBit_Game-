@@ -17,4 +17,4 @@ git-image
 nimblebit
 bitcity
 bit-city
-nimblebit-hames
+nimblebit-games
