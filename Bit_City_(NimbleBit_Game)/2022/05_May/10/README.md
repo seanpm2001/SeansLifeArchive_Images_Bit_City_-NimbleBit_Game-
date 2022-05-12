@@ -83,7 +83,7 @@ I didn't do any upgrades today. - 2021 Tuesday October 5th to 2022, Tuesday, Apr
 
 I upgraded my keeper of keys to level 4 today. - 2022, April 26th
 
-</detals>
+</details>
 
 I didn't do any upgrades today. - 2022, Tuesday, May 3rd to 2022, Tuesday, May 10th
 
