@@ -83,7 +83,6 @@ I had a shorter session this week, playing for about 31 minutes. I didn't make v
 
 I had a much longer session again this week, playing for over 45 minutes. I slowly made bux today, making over 700, which was my goal for today. Gameplay was pretty boring, I am still skeptical on resetting, although I have started to do the industrial city theme, with my existing towers, and as many tiny towers as possible. I have still not received any max rewards from any boats for 3 weeks now. I didn't waste any bux today, and I eventually wrapped up and quit. - 2022, Tuesday, June 7th
 
-
 ## Upgrades
 
 <details><summary><p>Click/tap here to expand/collapse overall upgrade entries</p></summary>
@@ -92,7 +91,7 @@ I didn't do any upgrades today. - 2021 Tuesday October 5th to 2022, Tuesday, Apr
 
 I upgraded my keeper of keys to level 4 today. - 2022, April 26th
 
-</detals>
+</details>
 
 I didn't do any upgrades today. - 2022, Tuesday, May 3rd to 2022, Tuesday, June 7th
 
