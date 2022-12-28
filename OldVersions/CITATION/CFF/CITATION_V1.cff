@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this data set (image data) project, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-"
+cff-version: 1.2.0
+message: "If you use this data set (image data) project, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Video game image data for machine learning and stock imagery"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 12A
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "Video game (Bit City (2017 mobile video game by NimbleBit LLC) data for reference, machine learning, and stock imagery. Screenshots are taken by @seanpm2001 for these purposes."
+  issue: 1
+  volume: 1
+  year: 2021
+# File info
+# File version: 1 (2022, Tuesday, January 4th at 6:24 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
